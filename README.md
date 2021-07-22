@@ -1,6 +1,6 @@
 # README
 
-Éste es el notebook a una postulación que hice, me gustó mucho la solución y como siento que refleja bastante bien mi lógica de desarrollo a la hora de hacer modelos, por lo que decidí publicarlo aquí.
+Éste notebook nació de una postulación que hice donde me gustó la solución que propuse, y como siento que refleja bastante bien mi lógica de desarrollo a la hora de hacer modelos decidí publicarlo aquí.
 
 La base de datos tratada es una base de datos pública del aeropuerto de Santiago, la cual contiene aterrizajes y despegues del aeropuerto de Santiago. El objetivo es predecir la probabilidad de atraso de los vuelos.
 
