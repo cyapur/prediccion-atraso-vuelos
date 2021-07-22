@@ -1,4 +1,4 @@
-# prediccion-atraso-vuelos
+# README
 
 Éste es el notebook a una postulación que hice, me gustó mucho la solución y como siento que refleja bastante bien mi lógica de desarrollo a la hora de hacer modelos, por lo que decidí publicarlo aquí.
 
